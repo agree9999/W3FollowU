@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/CamRooni/W3FollowU/blob/master/Logo.png">
 </p>
-W3FollowU is a perfect clone for like4like.org, addmefast.com, .... and many more site like that in production. Help us to maintain this code PLEASE SEE [CODE OF CONDUCT](code-of-conduct.md) and help it to update it with your new ideas PLEASE SEE [CONTRIBUTION GUIDELINES](contribution.md). This is basically for those who want to open there own social traffic exchange site. While you have to provide me premium membership... More
+W3FollowU is a perfect clone for like4like.org, addmefast.com, .... and many more site like that while it is still in production state. Help us to maintain this code please see <a href="https://github.com/CamRooni/W3FollowU/blob/master/code-of-conduct.md">code of conduct</a> and help it to update it with your new ideas please see [contribution guidelines](https://github.com/CamRooni/W3FollowU/blob/master/contribution.md"). This is basically for those who want to open there own social traffic exchange site. While you have to provide me premium membership... More
 
 ## Prerequisites
 
