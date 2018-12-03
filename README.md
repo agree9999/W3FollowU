@@ -1,6 +1,10 @@
-# W3FollowU
+#### W3FollowU
 
-W3FollowU is a perfect clone for like4like.org, addmefast.com, .... and many more site like that in production. Help us to maintain this code **PLEASE SEE [CODE OF CONDUCT](docs/coc.md)** and help it to update it with your new ideas **PLEASE SEE [CONTRIBUTION GUIDELINES](docs/coc.md)**. This is basically for those who want to open there own social traffic exchange site. While you have to provide me premium membership... More
+<p align="center">
+  <img src="https://github.com/CamRooni/W3FollowU/blob/master/Logo.png">
+</p>
+
+W3FollowU is a perfect clone for like4like.org, addmefast.com, .... and many more site like that in production. Help us to maintain this code **PLEASE SEE [CODE OF CONDUCT](docs/code of conduct.md)** and help it to update it with your new ideas **PLEASE SEE [CONTRIBUTION GUIDELINES](docs/contribution.md)**. This is basically for those who want to open there own social traffic exchange site. While you have to provide me premium membership... More
 
 ## Prerequisites
 
